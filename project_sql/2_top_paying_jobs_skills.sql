@@ -1,6 +1,6 @@
 /*
     --Will add the skills needed for the top 10 highest paying Data Analyst Jobs query previously made
-    --It will provide a detailed insight on which high-paying jobs demand certain skills in roder to help job seekers understand which skills should be developed to align with the top salaries jobs
+    --It will provide a detailed insight on which high-paying jobs demand certain skills in order to help job seekers understand which skills should be developed to align with the top salaries jobs
 */
 
 WITH top_paying_jobs AS (
