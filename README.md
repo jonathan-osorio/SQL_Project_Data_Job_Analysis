@@ -2,7 +2,7 @@
 
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
-Data hails from the [SQL Course](https://lukebarousse.com/sql). 
+Data extracted from the [SQL Course](https://lukebarousse.com/sql). 
 
 ### The questions I wanted to answer through my SQL queries were:
 
